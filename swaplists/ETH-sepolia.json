@@ -32,6 +32,17 @@
       "price": 2484.91,
       "cgId": "ethereum",
       "rank": 2
+    },
+    {
+      "address": "0xaA8E23Fb1079EA71e0a56F48a2aA51851D8433D0",
+      "decimals": 6,
+      "logoURI": "https://sepolia.etherscan.io/images/main/empty-token.png",
+      "name": "USDT",
+      "symbol": "USDT",
+      "type": "evm",
+      "price": 2484.91,
+      "cgId": "ethereum",
+      "rank": 2
     }
   ],
   "top": [
@@ -67,6 +78,17 @@
       "price": 2484.91,
       "cgId": "ethereum",
       "rank": 2
+    },
+    {
+      "address": "0xaA8E23Fb1079EA71e0a56F48a2aA51851D8433D0",
+      "decimals": 6,
+      "logoURI": "https://sepolia.etherscan.io/images/main/empty-token.png",
+      "name": "USDT",
+      "symbol": "USDT",
+      "type": "evm",
+      "price": 2484.91,
+      "cgId": "ethereum",
+      "rank": 2
     }
   ],
   "trending": [
@@ -98,6 +120,17 @@
       "logoURI": "https://sepolia.etherscan.io/images/main/empty-token.png",
       "name": "Wrapped Ethereum",
       "symbol": "WETH",
+      "type": "evm",
+      "price": 2484.91,
+      "cgId": "ethereum",
+      "rank": 2
+    },
+    {
+      "address": "0xaA8E23Fb1079EA71e0a56F48a2aA51851D8433D0",
+      "decimals": 6,
+      "logoURI": "https://sepolia.etherscan.io/images/main/empty-token.png",
+      "name": "USDT",
+      "symbol": "USDT",
       "type": "evm",
       "price": 2484.91,
       "cgId": "ethereum",
