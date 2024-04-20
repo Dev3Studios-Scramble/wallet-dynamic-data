@@ -40,7 +40,7 @@
       "name": "USDT",
       "symbol": "USDT",
       "type": "evm",
-      "price": 0.94,
+      "price": 1.00,
       "cgId": "ethereum",
       "rank": 2
     }
@@ -86,7 +86,7 @@
       "name": "USDT",
       "symbol": "USDT",
       "type": "evm",
-      "price": 0.94,
+      "price": 1.00,
       "cgId": "ethereum",
       "rank": 2
     }
@@ -132,7 +132,7 @@
       "name": "USDT",
       "symbol": "USDT",
       "type": "evm",
-      "price": 0.94,
+      "price": 1.00,
       "cgId": "ethereum",
       "rank": 2
     }
