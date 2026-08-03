@@ -34,5 +34,40 @@
       "type": "tron",
       "cgId": ""
     }
+  ],
+    "top": [
+    {
+      "symbol": "TRX",
+      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "chainId": 1,
+      "decimals": 6,
+      "name": "TRX",
+      "logoURI": "https://static.tronscan.org/production/logo/trx.png",
+      "type": "tron",
+      "price": 0.142,
+      "cgId": ""
+    },
+    {
+      "symbol": "USDT",
+      "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+      "chainId": 1,
+      "decimals": 6,
+      "name": "Tether USD",
+      "logoURI": "https://static.tronscan.org/production/logo/usdtlogo.png",
+      "price": 1.00052,
+      "type": "tron",
+      "cgId": ""
+    },
+    {
+      "symbol": "TUSD",
+      "address": "TUpMhErZL2fhh4sVNULAbNKLokS4GjC1F4",
+      "chainId": 1,
+      "decimals": 18,
+      "name": "TrueUSD",
+      "logoURI": "https://static.tronscan.org/production/logo/TUpMhErZL2fhh4sVNULAbNKLokS4GjC1F4.png",
+      "price": 0.967219,
+      "type": "tron",
+      "cgId": ""
+    }
   ]
 }
